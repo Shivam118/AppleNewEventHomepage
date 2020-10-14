@@ -1,0 +1,33 @@
+.header{
+	background:#343a40;
+	color:white;
+	width:100%;
+}
+.header a{
+	text-decoration:none;
+	color:#e9ecef;
+}
+.drop-hover a{
+	text-decoration:none;
+	color:Black;
+}
+.drop-hover a:hover{
+	background:#343a40;
+	color:#e9ecef;
+}
+.btn-group button{
+	width:10%;
+}
+.card{
+	padding:10px;
+}
+footer{
+	padding:20px 40px;
+	background:#e9ecef;
+}
+footer ul{
+	list-style:none;
+}
+footer ul li{
+	color:#4C4646;
+}

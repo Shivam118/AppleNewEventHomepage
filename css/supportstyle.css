@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+}
+nav ul{
+	width:100%;
+}
+.backgroundS{
+	margin:0;
+	padding:0;
+	background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5),rgba(0,0,0,0.6)),url(bg2.jpg);
+	background-size: 100%;
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.backgroundS2{
+	margin:0;
+	padding:0;
+	background: linear-gradient(rgba(0,0,0,-1),rgba(0,0,0,0),rgba(0,0,0,-1)),url(bg3.jpg);
+	background-size: 100%;
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    height: 75%;
+}
+.iconss img{
+	width:100px;
+	height:100px;
+}
+footer{
+	padding:20px 40px;
+	background:#e9ecef;
+}
+footer ul{
+	list-style:none;
+}
+footer ul li{
+	color:#4C4646;
+}

@@ -1,0 +1,14 @@
+.header,footer{
+	background:#343a40;
+	color:#e9ecef;
+	width:100%;
+}
+.btn-group{
+	width:100%;
+}
+.card{
+	padding:10px;
+}
+footer{
+	padding:20px;
+}
